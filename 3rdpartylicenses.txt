@@ -266,13 +266,25 @@ Apache-2.0
 @angular/core
 MIT
 
+@ngx-translate/http-loader
+MIT
+
 @angular/common
 MIT
 
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
+@ngx-translate/core
+MIT
+
 @angular/forms
+MIT
+
+ngx-ui-switch
 MIT
 
 core-js

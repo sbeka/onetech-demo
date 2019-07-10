@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "AUTHOR_NAME": "Bekzhan",
+    "AUTHOR_FNAME": "Seitkali",
+    "SPECIALTY": "Web-developer"
+  },
+  "NAVIGATION": {
+    "AUTHOR": "Author",
+    "PROJECTS": "Projects"
+  },
+  "LEFT": {
+    "CONTACTS": "Contacts",
+    "SKILLS": "Skills",
+    "LANGUAGES": "Languages",
+    "HOBBIES": "Hobbies",
+    "ADDRESS": "Kazakhstan, Almaty",
+    "KAZAKH": "Kazakh",
+    "RUSSIAN": "Russian",
+    "ENGLISH": "English"
+  },
+  "RIGHT": {
+    "ABOUT_ME": "About me",
+    "EDUCATIONS": "Education",
+    "EXPERIENCES": "Experience",
+    "ABOUT_TEXT": "There is a skill in different areas of web programming: MEAN stack, web design, layout(front-end), programming(backend), hybrid mobile applications.",
+    "EDU1_TITLE": "COMPUTER HARDWARE AND SOFTWARE, MASTER",
+    "EDU1_TEXT": "Al-Farabi Kazakh national University, Almaty",
+    "EDU2_TITLE": "INFORMATION SYSTEMS, BACHELOR",
+    "EDU2_TEXT": "Kazakh Academy of transport and communications named after M. Tynyshpayev, Almaty",
+    "EXP1_TITLE": "INDIVIDUAL ENTREPRENEURSHIP, FREELANCING",
+    "EXP1_TEXT": "Website development, mobile application development, advertising creation, meeting with clients",
+    "EXP2_TITLE": "WEB STUDIO A-LUX, ZOOMAPPS",
+    "EXP2_TEXT": "Web full stack, Gybrid mobile developer. Layout, programming in PHP, created a hybrid mobile application",
+    "EXP3_TITLE": "INSTITUTE OF INFORMATION AND COMPUTING TECHNOLOGY",
+    "EXP3_TEXT": "Engineer-programmer. Programming in Angular 2, LoopBack, TypeScript, MongoDB, RESTfull API"
+  }
+}
